@@ -12,12 +12,12 @@
         "logo": "https://raw.githubusercontent.com/jesserodri/Portfolio/refs/heads/main/data/img/python.png"
       },
       {
-        "name": "Git",
-        "logo": "https://raw.githubusercontent.com/jesserodri/Portfolio/refs/heads/main/data/img/git.png"
+        "name": "Javascript",
+        "logo": "https://raw.githubusercontent.com/jesserodri/Portfolio/refs/heads/main/data/img/js.png" 
       },
       {
-        "name": "Javascript",
-        "logo": "https://raw.githubusercontent.com/jesserodri/Portfolio/refs/heads/main/data/img/js.png"
+        "name": "Git",
+        "logo": "https://raw.githubusercontent.com/jesserodri/Portfolio/refs/heads/main/data/img/git.png"
       },
       {
         "name": "Html",
