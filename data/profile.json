@@ -8,24 +8,25 @@
   "skills": {
     "hardSkills": [
       {
-        "name": "Python",
-        "logo": "https://raw.githubusercontent.com/jesserodri/Portfolio/refs/heads/main/data/img/python.png"
-      },
-      {
-        "name": "Javascript",
-        "logo": "https://raw.githubusercontent.com/jesserodri/Portfolio/refs/heads/main/data/img/js.png" 
-      },
-      {
-        "name": "Git",
-        "logo": "https://raw.githubusercontent.com/jesserodri/Portfolio/refs/heads/main/data/img/git.png"
-      },
-      {
+
         "name": "Html",
-        "logo": "https://raw.githubusercontent.com/jesserodri/Portfolio/refs/heads/main/data/img/html.png"
+        "logo": "https://raw.githubusercontent.com/jesserodri/Portfolio/refs/heads/main/data/img/html.png"        
       },
       {
         "name": "Css",
         "logo": "https://raw.githubusercontent.com/jesserodri/Portfolio/refs/heads/main/data/img/css.png"
+      },
+      {
+        "name": "Javascript",
+        "logo": "https://raw.githubusercontent.com/jesserodri/Portfolio/refs/heads/main/data/img/js.png"
+      },
+      {
+        "name": "Python",
+        "logo": "https://raw.githubusercontent.com/jesserodri/Portfolio/refs/heads/main/data/img/python.png"
+      },
+      {
+         "name": "Git",
+        "logo": "https://raw.githubusercontent.com/jesserodri/Portfolio/refs/heads/main/data/img/git.png"
       },
       {
         "name": "Mysql",
