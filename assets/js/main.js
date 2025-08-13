@@ -30,7 +30,7 @@ function updateHardSkills(profileData) {
   hardSkills.innerHTML = profileData.skills.hardSkills
     .map(
       (skill) =>
-        `<li> <img src="${skill.logo} alt="${skill.name}" title="${skill.name} "> </img></li>`
+        `<li> <img src="${skill.logo}" alt="${skill.name}" title="${skill.name} "> </img></li>`
     )
     .join("");
 }
