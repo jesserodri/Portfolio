@@ -32,26 +32,34 @@
   <body>
     <main>
       <header class="header">
-        <img src="/assets/img/Jesse.jpg" alt="Foto do Jessé" class="photo" />
+        <img
+          src="/assets/img/Jesse.jpg"
+          alt="Foto de perfil"
+          class="photo"
+          id="profile.photo"
+        />
         <h1 class="title">
           Olá, <br />
-          eu sou Jessé Rodrigues
+          eu sou <span id="profile.name">loading...</span>
         </h1>
         <div class="information">
           <p class="job">
             <a
               href="https://www.linkedin.com/in/jesse-rodrigues-da-silva/"
               target="_blank"
-              >Analista de TI / Dev Junior</a
+              id="profile.job"
+              >loading...</a
             >
           </p>
-          <p class="location">Itu - São Paulo</p>
+          <p class="location">
+            <span id="profile.location">loading...</span>
+          </p>
           <p class="phone">
-            <a href="tel:(11) 96471-1341">(11) 96471-1341</a>
+            <a href="tel:(11) 96471-1341" id="profile.phone">loading...</a>
           </p>
           <p class="email">
-            <a href="mailto:jesser.silva1508@gmail.com"
-              >jesser.silva1508@gmail.com</a
+            <a href="mailto:jesser.silva1508@gmail.com" id="profile.email"
+              >loading@gmail.com</a
             >
           </p>
         </div>
@@ -175,5 +183,7 @@
     </main>
 
     <script src="/assets/js/acordeon.js"></script>
+    <script src="/assets/js/api.js"></script>
+    <script src="/assets/js/main.js"></script>
   </body>
 </html>
