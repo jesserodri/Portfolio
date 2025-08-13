@@ -8,28 +8,28 @@
   "skills": {
     "hardSkills": [
       {
-        "name": "Windows",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
-      },
-      {
         "name": "Python",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        "logo": "https://raw.githubusercontent.com/jesserodri/Portfolio/refs/heads/main/data/img/python.png"
       },
       {
         "name": "Git",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+        "logo": "https://raw.githubusercontent.com/jesserodri/Portfolio/refs/heads/main/data/img/git.png"
       },
       {
         "name": "Javascript",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+        "logo": "https://raw.githubusercontent.com/jesserodri/Portfolio/refs/heads/main/data/img/js.png"
       },
       {
         "name": "Html",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+        "logo": "https://raw.githubusercontent.com/jesserodri/Portfolio/refs/heads/main/data/img/html.png"
       },
       {
-        "name": "SQL",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        "name": "Css",
+        "logo": "https://github.com/jesserodri/Portfolio/blob/main/data/img/css.png"
+      },
+      {
+        "name": "Mysql",
+        "logo": "https://raw.githubusercontent.com/jesserodri/Portfolio/refs/heads/main/data/img/mysql.png"
       }
     ],
     "softSkills": [
