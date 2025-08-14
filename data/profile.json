@@ -44,15 +44,26 @@
   "languages": ["Português BR", "Inglês (intermediário)"],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Portfólio",
+      "url": "https://github.com/jesserodri/Portfolio",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Projeto Web Site para Comércio",
+      "url": "https://github.com/jesserodri/projeto-burger-HTML-CSS-JS",
+      "github": true
+    },
+    {
+      "name": "Lading Page Comércio",
+      "url": "https://github.com/jesserodri/lading-page-comercio",
+      "github": true
+    },
+    {
+      "name": "Download mídia Youtube",
+      "url": "https://github.com/jesserodri/download-midia",
       "github": true
     }
+    
   ],
   "professionalExperience": [
     {
