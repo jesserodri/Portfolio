@@ -14,7 +14,7 @@
   margin: 1rem 0;
 }
 
-.portfolio li .title {
+.portfolio li h3 {
   font-size: 1.25rem;
   display: flex;
   flex-direction: row;
@@ -24,7 +24,7 @@
   margin-bottom: 0.5rem;
 }
 
-.portfolio li .title.github::before {
+.portfolio li .github::before {
   content: "";
   display: inline-block;
   width: 1rem;
