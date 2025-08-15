@@ -8,9 +8,8 @@
   "skills": {
     "hardSkills": [
       {
-
         "name": "Html",
-        "logo": "https://raw.githubusercontent.com/jesserodri/Portfolio/refs/heads/main/data/img/html.png"        
+        "logo": "https://raw.githubusercontent.com/jesserodri/Portfolio/refs/heads/main/data/img/html.png"
       },
       {
         "name": "Css",
@@ -25,7 +24,7 @@
         "logo": "https://raw.githubusercontent.com/jesserodri/Portfolio/refs/heads/main/data/img/python.png"
       },
       {
-         "name": "Git",
+        "name": "Git",
         "logo": "https://raw.githubusercontent.com/jesserodri/Portfolio/refs/heads/main/data/img/git.png"
       },
       {
@@ -44,8 +43,8 @@
   "languages": ["Português BR", "Inglês (intermediário)"],
   "portfolio": [
     {
-      "name": "Portfólio",
-      "url": "https://github.com/jesserodri/Portfolio",
+      "name": "Download mídia Youtube",
+      "url": "https://github.com/jesserodri/download-midia",
       "github": true
     },
     {
@@ -54,27 +53,26 @@
       "github": true
     },
     {
-      "name": "Download mídia Youtube",
-      "url": "https://github.com/jesserodri/download-midia",
+      "name": "Script para configuração linux via terminal",
+      "url": "https://github.com/jesserodri/script-linux-iacl",
       "github": true
     }
-    
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "Ribeiro e Pavani | Analista de Sistemas / Suporte",
+      "period": "10/2024 – 05/2025",
+      "description": "Excelente oportunidade para validar minhas análises e pensamento crítico, exergando as deficiências dos setores e buscando soluções concretas."
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "name": "Global IT Solutions | Analista de Suporte TI",
+      "period": "07/2023 – 02/2024",
+      "description": "Executando todas as atribuições anteriores, consegui formular e executar atividades mais robustas com implementação, gerencimento e administração dos Serviços de TI das empresas"
     },
     {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Global IT Solutions | Assistente de TI",
+      "period": "08/2021 – 07/2023",
+      "description": "Auxilio em todas as partes do T.I. das empresas contratantes, desde a parte lógica, como servidores (AD), sistemas ERP, sistemas de chamados, Firewall, entre outros, até a manipulação e manutenção dos hardwares."
     }
   ]
 }
