@@ -33,7 +33,7 @@
 }
 
 .acordeon.open .trigger::after {
-  transform: rotate(180deg);
+  transform: rotate(0deg);
 }
 
 .acordeon .trigger:hover {
@@ -47,6 +47,7 @@
   background-repeat: no-repeat;
   background-size: contain;
   background-image: url("../img/icons/arrow-top.svg");
+  transform: rotate(180deg);
 }
 
 .acordeon .content {
